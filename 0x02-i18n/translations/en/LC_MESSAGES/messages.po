@@ -1,14 +1,14 @@
 # English translations for i18n.
-# Copyright (C) 2024, Benjamin Otieno Alfayo
+# Copyright (C) 2024 Benjamin Alfayo
 # This file is distributed under the same license as the i18n project.
-# Bezaleel Olakunori <alphaspaam@gmail.com>, 2024.
+# Benjami Alfayo <alphaspaam@gmail.com>, 2024.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: alphaspaam@gmail.com\n"
-"POT-Creation-Date: 2024-11-05 06:39+0100\n"
-"PO-Revision-Date: 2024-11-05 11:02+0100\n"
+"Report-Msgid-Bugs-To: bezaleeloci@gmail.com\n"
+"POT-Creation-Date: 2022-05-10 06:39+0100\n"
+"PO-Revision-Date: 2022-05-10 11:02+0100\n"
 "Last-Translator: Benjamin Alfayo <alphaspaam@gmail.com>\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
